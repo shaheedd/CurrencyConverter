@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="titre">Currency Converter</string>
+    <string name="convertir">CONVERTIR</string>
+
+    <!-- Listes des devises, utilisées par les deux Spinner -->
+    <string-array name="devises">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
+    </string-array>
+
+    <!-- Touches du clavier numérique -->
+    <string name="touche_0">0</string>
+    <string name="touche_1">1</string>
+    <string name="touche_2">2</string>
+    <string name="touche_3">3</string>
+    <string name="touche_4">4</string>
+    <string name="touche_5">5</string>
+    <string name="touche_6">6</string>
+    <string name="touche_7">7</string>
+    <string name="touche_8">8</string>
+    <string name="touche_9">9</string>
+    <string name="touche_point">.</string>
+    <string name="touche_effacer">C</string>
+
+    <!-- Messages et accessibilité -->
+    <string name="montant_vide">Veuillez saisir un montant</string>
+    <string name="format_resultat">%.2f</string>
+    <string name="description_inverser">Inverser les devises source et cible</string>
+    <string name="description_devise_source">Devise source</string>
+    <string name="description_devise_cible">Devise cible</string>
+    <string name="description_montant">Montant saisi</string>
+    <string name="description_resultat">Résultat de la conversion</string>
+
+    <!-- État des taux (cliquable pour charger les taux réels) -->
+    <string name="taux_fixes">Taux fixes du TP — toucher pour charger les taux réels</string>
+    <string name="taux_api">Taux réels chargés via l’API — toucher pour revenir aux taux fixes</string>
+    <string name="taux_api_indisponible">API indisponible — taux fixes conservés</string>
+</resources>

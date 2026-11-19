@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.CurrencyConverter" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+    </style>
+
+    <style name="Theme.CurrencyConverter" parent="Base.Theme.CurrencyConverter" />
+</resources>
