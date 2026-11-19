@@ -38,6 +38,7 @@
     <string name="description_resultat">Résultat de la conversion</string>
 
     <!-- État des taux (cliquable pour charger les taux réels) -->
+    <string name="chargement_taux">Chargement des taux réels…</string>
     <string name="taux_fixes">Taux fixes du TP — toucher pour charger les taux réels</string>
     <string name="taux_api">Taux réels chargés via l’API — toucher pour revenir aux taux fixes</string>
     <string name="taux_api_indisponible">API indisponible — taux fixes conservés</string>
